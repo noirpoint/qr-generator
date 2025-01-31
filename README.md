@@ -39,5 +39,5 @@
 
   No color customization
 
-##License
+## License
   MIT License.
