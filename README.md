@@ -3,7 +3,7 @@
 ## Installation
 
   1. Clone the repository:
-  git clone https://github.com/YOUR-USERNAME/qr-generator.git
+  git clone https://github.com/noirprint/qr-generator.git
 
   2. Install dependencies:
   pip install qrcode[pil] validators
